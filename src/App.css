@@ -1,0 +1,14 @@
+body{
+  margin: 0;
+}
+
+.topPane{
+  background-color: hsl(255, 6%, 25%);
+}
+
+.pane{
+  height: 50vh;
+  display: flex;
+}
+
+
